@@ -326,7 +326,7 @@ input {
   font-weight: 500;
   color: #9ba4b5;
   line-height: 2rem;
-  margin-bottom: 3.5rem;
+  margin-bottom: 3rem;
 }
 
 @media (max-height: 720px) {
